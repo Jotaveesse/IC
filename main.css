@@ -99,6 +99,7 @@ button:hover{
 	width:90%;
 	margin:auto 0px;
 	background-size:cover;
+	background-position:center;
 	border-radius:100%;
 }
 
